@@ -1,0 +1,15 @@
+node_modules/
+# Logs
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# dotenv environment variables file
+.env
+# Build output 
+dist
+# Coverage directory used by tools like istanbul
+coverage
+# Next.js build output
+.next
+# Nuxt.js build output
